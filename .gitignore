@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+calculation_history.txt
+.DS_Store
+*.pptx
+*.docx
