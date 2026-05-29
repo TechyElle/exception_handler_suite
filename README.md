@@ -89,10 +89,6 @@ Would you like to try again? (y/n): n
 
 THANK YOU FOR USING THE CALCULATOR APP!
 
-## Building From Scratch
-
-See BUILD_FROM_SCRATCH.md for the step-by-step development process.
-
 ## References
 
 Based on CMPE-103-Module-3-Exception-Handling-in-Python.pptx
